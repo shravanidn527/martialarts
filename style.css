@@ -2,6 +2,7 @@ body{
     background-image: url("images/background.jpg");
     color:white;
     background-size: 1280px,600px;
+    background-repeat: no-repeat, repeat;
 }
 
 .btn{
